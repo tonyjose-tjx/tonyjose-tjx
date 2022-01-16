@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 [![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyjose-tjx&count_private=true&include_all_commits=true)](https://github.com/tonyjose-tjx/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyjose-tjx&langs_count=8)](https://github.com/tonyjose-tjx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyjose-tjx&langs_count=8&include_all_commits&count_private=true)](https://github.com/tonyjose-tjx/github-readme-stats)
