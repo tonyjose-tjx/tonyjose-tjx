@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyjose-tjx)](https://github.com/tonyjose-tjx/github-readme-stats)
+[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyjose-tjx&count_private=true&include_all_commits=true)](https://github.com/tonyjose-tjx/github-readme-stats)
