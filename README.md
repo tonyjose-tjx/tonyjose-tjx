@@ -4,13 +4,7 @@
 - 📫 **How to reach me** - [tonyjose.net](http://tonyjose.net)
 - 😄 **Pronouns** - (he/him)
 
-<!--
-**tonyjose-tjx/tonyjose-tjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
--->
 
 The below Github status show contributions made to active personal and private/public repositories and it ***DOES NOT INCLUDE*** contributions made to previous/current employers' private repositories.
 
