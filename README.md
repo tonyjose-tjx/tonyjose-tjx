@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 
 -->
 
+The below Github status show info to active personal and private/public repositories and it ***DOES NOT INCLUDE*** contributions made to previous/current employers' private repositories.
 
 [![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyjose-tjx&count_private=true&include_all_commits=true)](https://github.com/tonyjose-tjx/github-readme-stats)
 
